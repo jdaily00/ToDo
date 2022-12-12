@@ -1,0 +1,17 @@
+++ $ npm install --save react-native-vector-icons
+react native에서 제공하는 vector image 사용 위함. (번들 아이콘 세트 >> Octicons)
+참고: https://www.npmjs.com/package/react-native-vector-icons
+
+
+
+++ $ npm install @react-native-async-storage/async-storage
+참고: https://react-native-async-storage.github.io/async-storage/docs/install/
+
+
+
+-- $ react-native link
+react native 0.60 이상 버전에서는 자동 link가 걸리기 때문에 link명령어는 수행할 필요 없음.
+참고: https://roongstar.tistory.com/13
+
+
+
